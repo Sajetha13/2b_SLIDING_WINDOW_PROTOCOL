@@ -1,5 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+To implement the Sliding Window Protocol using Python socket programming to demonstrate reliable data transmission between a client and a server with acknowledgment handling.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
